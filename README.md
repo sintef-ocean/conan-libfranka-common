@@ -1,6 +1,6 @@
 [![Linux GCC](https://github.com/sintef-ocean/conan-libfranka-common/workflows/Linux%20GCC/badge.svg)](https://github.com/sintef-ocean/conan-libfranka-common/actions?query=workflow%3A"Linux+GCC")
 
-[Conan.io](https://conan.io) recipe for [libboard](https://github.com/c-koi/libboard).
+[Conan.io](https://conan.io) recipe for [libfranka-common](https://github.com/frankaemika/libfranka-common).
 
 ## How to use this package
 
