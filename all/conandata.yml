@@ -1,0 +1,13 @@
+sources:
+  "cci.20220719":
+    commit: "937120d12fe19133c09b80829439ce88ad9ac3ac"
+    url: "https://github.com/frankaemika/libfranka-common.git"
+  "cci.20220217":
+    commit: "e6aa0fc210d93fe618bfd8956829a264d5476ba8"
+    url: "https://github.com/frankaemika/libfranka-common.git"
+  "cci.20191017":
+    commit: "af64d3e64087450d1ccc1639570183eb99d4c401"
+    url: "https://github.com/frankaemika/libfranka-common.git"
+  "cci.20190513":
+    commit: "277a0fc6ce3de03e13d8d537c245d9d95cdae215"
+    url: "https://github.com/frankaemika/libfranka-common.git"
